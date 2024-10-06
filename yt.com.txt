@@ -1,0 +1,17 @@
+Client Name: Final Test 121321
+task_link=google.com
+website=https://www.yt.com
+#==== START DATABASE =====
+db_link=yt.com
+db_username=admin
+db_password=admin
+#==== END DATABASE =====
+                     
+#==== START FTP =====
+ftp_hostname=yt.com
+ftp_username=admndsfs[6~
+ftp_password=admin
+#==== END FTP =====
+                     
+#==== SCREENSHOT FILE PATH =====
+scrn_path=
